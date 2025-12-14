@@ -7,7 +7,7 @@ export default function App() {
 
     return (
         <main style={{ fontFamily: 'system-ui, sans-serif'    , padding: '2rem' }}>
-            <h1>Modern CI/CD demo</h1>
+            <h1>CI/CD demo</h1>
             <p>Vite + React + Vitest + GitHub Actions</p>
 
             <section style={{ marginTop: '1.5rem' }}>
